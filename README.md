@@ -25,8 +25,5 @@ This project documents the **design, development, and implementation** of a **re
 3. Load sample data from **`part3.xlsx`**.
 4. Use **Power BI (`part3.pdf`)** to analyze sales trends.
 
-## 📈 Power BI Insights
-![Power BI Report](images/powerbi_report.png)
-
 ## 📬 Contact
 For any questions, reach out via [LinkedIn](https://www.linkedin.com/in/your-profile).
