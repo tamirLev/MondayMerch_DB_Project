@@ -26,4 +26,4 @@ This project documents the **design, development, and implementation** of a **re
 4. Use **Power BI (`part3.pdf`)** to analyze sales trends.
 
 ## 📬 Contact
-For any questions, reach out via [LinkedIn](https://www.linkedin.com/in/your-profile).
+For any questions, reach out via [[LinkedIn](https://www.linkedin.com/in/your-profile).](https://www.linkedin.com/in/tamir-leventer-04290a277/)
